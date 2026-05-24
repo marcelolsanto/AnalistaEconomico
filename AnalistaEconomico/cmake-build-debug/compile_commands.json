@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/G15/CLionProjects/AnalistaEconomico/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.1\\bin\\mingw\\bin\\G__~1.EXE -g -std=gnu++20 -fdiagnostics-color=always -o CMakeFiles\\AnalistaEconomico.dir\\main.cpp.obj -c C:\\Users\\G15\\CLionProjects\\AnalistaEconomico\\main.cpp",
+  "file": "C:/Users/G15/CLionProjects/AnalistaEconomico/main.cpp",
+  "output": "C:/Users/G15/CLionProjects/AnalistaEconomico/cmake-build-debug/CMakeFiles/AnalistaEconomico.dir/main.cpp.obj"
+}
+]
